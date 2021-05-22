@@ -1,6 +1,8 @@
 # tensorflow_with_paper
 
 
-- 오토인코더 (텐서플로 튜토리얼)
+### AutoEncoder (tensorflow tutorial)  
+   
+- anomaly detection auto encoder with ecg data
 
-- 오토인코더 (MVTEC_metal_nut) 
+### AutoEncoder (MVTEC_metal_nut) 
